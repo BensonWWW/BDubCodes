@@ -6,5 +6,7 @@ public class Main {
 
         int num = 1;
         System.out.println(num);
+        num = 2;
+        System.out.println(num + 1);
     }
 }
